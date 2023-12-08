@@ -13,7 +13,7 @@ struct Smartphone
     string color;
     // value
     double price;
-
+    //DF
 };
 struct person
 {
