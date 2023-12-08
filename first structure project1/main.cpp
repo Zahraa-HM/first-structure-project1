@@ -14,6 +14,7 @@ struct Smartphone
     // value
     double price;
     // s
+    //a
 };
 struct person
 {
