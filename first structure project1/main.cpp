@@ -14,6 +14,12 @@ struct Smartphone
     // value
     double price;
     // s
+    // ss
+    // s
+    // s
+    // dsa
+    // dqwd
+    // dwqd
     //a
 };
 struct person
